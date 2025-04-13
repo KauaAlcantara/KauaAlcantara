@@ -2,7 +2,7 @@
 
 **`Desnvolvedor Front-End`**
 
-Me chamo Kauã de Alcântara Constantino, tenho 21 anos e sou natural de Monte Santo de Minas. Concluí o ensino médio no Américo de Paiva, com o curso técnico em informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedin  "[Kauã de Alcântara](https://www.linkedin.com/in/kauaalcantara/)", onde crio projetos web, e também através do Instagram,  "[kauaa_alcantara](https://www.instagram.com/kauaa_alcantara/)".
+Me chamo Kauã de Alcântara Constantino, tenho 21 anos e sou natural de Monte Santo de Minas. Concluí o ensino médio no Américo de Paiva, com o curso técnico em informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedin  [Kauã de Alcântara](https://www.linkedin.com/in/kauaalcantara/), onde crio projetos web, e também através do Instagram,  [kauaa_alcantara](https://www.instagram.com/kauaa_alcantara/).
 
 <p align="left">
     <a href="https://www.youtube.com/@Kaua_p2p">
@@ -26,7 +26,7 @@ Me chamo Kauã de Alcântara Constantino, tenho 21 anos e sou natural de Monte S
         alt="LinkedIn"
         title="Me siga no LinkedIn"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        style="margin-right: 5px;"  
+        style="margin-right: 5px;"
         />
     </a>
     <a href="https://www.instagram.com/kauaa_alcantara/" >
