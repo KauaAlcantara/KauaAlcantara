@@ -83,6 +83,7 @@ Me chamo Kauã de Alcântara Constantino, tenho 21 anos e sou natural de Monte S
     align="left"
     alt="GitHub Stats"
     height="200"
+    width = "80%px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=KauaAlcantara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
